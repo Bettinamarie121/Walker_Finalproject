@@ -1,0 +1,5 @@
+“Comparable?”
+“yes”
+“no”
+“no”
+“no”

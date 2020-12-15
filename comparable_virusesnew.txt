@@ -1,0 +1,17 @@
+Accession#      Virus								“Comparable?”
+LC340445.1 	PVY O	“yes”
+EF192316.1 	PVY N       	“no”
+LC515211.1 	PVY N      	“no”
+AF228631.1 	PVY NTN	   	“no”
+J609242.1 	PVY   				
+EF192311.1 	PVY O	
+MT668629.1 	BIMV-IP-29		
+EF027869.1 	PVY N	
+AF228630.1 	PVY N	
+NLC340446.1 	PVY N 	
+AF228635.1 	PVY NTN		       	
+MT668628.1 	BIMV-ESALQ 	  	
+AF321554.1 	PVY NTN	       	
+MT668627.1 	BIMV-IP-27	      	
+AF228634.1 	PVY NTN	       	
+AF228632.1 	PVY NTN	 	
